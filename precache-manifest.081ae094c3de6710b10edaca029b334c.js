@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfcc5c0011e25dccfbf17bb66f68412b",
+    "revision": "71bcec008dafba258de0c535c0a8710f",
     "url": "/Movie-search-with-react-and-redux/index.html"
   },
   {
-    "revision": "34cecc8d8bb8570cac03",
-    "url": "/Movie-search-with-react-and-redux/static/css/main.89985233.chunk.css"
+    "revision": "2921310f0690dcb8af95",
+    "url": "/Movie-search-with-react-and-redux/static/css/main.a91e412d.chunk.css"
   },
   {
     "revision": "810cc31be53d1a7c9945",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Movie-search-with-react-and-redux/static/js/2.01d9c7da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34cecc8d8bb8570cac03",
+    "revision": "2921310f0690dcb8af95",
     "url": "/Movie-search-with-react-and-redux/static/js/main.280bb7c8.chunk.js"
   },
   {
