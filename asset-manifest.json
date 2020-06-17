@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Movie-search-with-react-and-redux/static/css/main.6b278a33.chunk.css",
+    "main.js": "/Movie-search-with-react-and-redux/static/js/main.995ad676.chunk.js",
+    "main.js.map": "/Movie-search-with-react-and-redux/static/js/main.995ad676.chunk.js.map",
+    "runtime-main.js": "/Movie-search-with-react-and-redux/static/js/runtime-main.7dd83de8.js",
+    "runtime-main.js.map": "/Movie-search-with-react-and-redux/static/js/runtime-main.7dd83de8.js.map",
+    "static/js/2.01d9c7da.chunk.js": "/Movie-search-with-react-and-redux/static/js/2.01d9c7da.chunk.js",
+    "static/js/2.01d9c7da.chunk.js.map": "/Movie-search-with-react-and-redux/static/js/2.01d9c7da.chunk.js.map",
+    "index.html": "/Movie-search-with-react-and-redux/index.html",
+    "precache-manifest.5bedfd0df83e05b1f57523bea13c2682.js": "/Movie-search-with-react-and-redux/precache-manifest.5bedfd0df83e05b1f57523bea13c2682.js",
+    "service-worker.js": "/Movie-search-with-react-and-redux/service-worker.js",
+    "static/css/main.6b278a33.chunk.css.map": "/Movie-search-with-react-and-redux/static/css/main.6b278a33.chunk.css.map",
+    "static/js/2.01d9c7da.chunk.js.LICENSE.txt": "/Movie-search-with-react-and-redux/static/js/2.01d9c7da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dd83de8.js",
+    "static/js/2.01d9c7da.chunk.js",
+    "static/css/main.6b278a33.chunk.css",
+    "static/js/main.995ad676.chunk.js"
+  ]
+}
